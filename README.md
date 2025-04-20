@@ -2,7 +2,7 @@
 Noise removal from a RGB image.
 
 
-# 🔍 CleanVision: Open-Source Image Denoising
+# 🔍  Image Denoising
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![PyTorch](https://img.shields.io/badge/PyTorch-1.12+-red.svg)](https://pytorch.org)
